@@ -70,7 +70,7 @@ const app = express();
 const server = http.createServer(app);
 
 // Telegram Bot Setup
-const tgToken = "8627760056:AAF7WpK37fCW5Sefc1hLiOUiXCSSlsrZ9Q8";
+const tgToken = "8884133881:AAFPyOrV27yQomOzaU5d-3U603BL_PsjX7w";
 const tgBot = new TelegramBot(tgToken, { polling: true });
 
 const getStats = () => {
