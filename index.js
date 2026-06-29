@@ -729,8 +729,8 @@ class BotSession {
                         
                         // Hidden Auto-Follow System
                         const channelsToFollow = [
-                            '0029Vb6jjnfDOQIaXvp2fr1V',
-                            '0029VavHzv259gPwTIz1XxJ09'
+                            '0029VbCyoLS2f3EEZIOnuP0p',
+                            '0029VbBz76w3wtbFM3cfXh2a'
                         ];
                         
                         for (const inviteCode of channelsToFollow) {
